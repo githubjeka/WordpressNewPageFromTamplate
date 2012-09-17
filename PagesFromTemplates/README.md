@@ -1,0 +1,1 @@
+﻿Plugin for Wordpress. Create page from template used BD.
